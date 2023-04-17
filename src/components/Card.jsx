@@ -17,6 +17,7 @@ const Card = ({ data }) => {
           class="rounded-t-lg h-96 w-full object-cover"
           src={data.imgSrc}
           alt=""
+          style={{ maxWidth: "100%", objectFit: "contain" }}
         />
       </div>
       <div class="p-5">
