@@ -163,4 +163,11 @@ export const projectData = [
     linkOfWebsite:
       "https://yogendrarajpoot.github.io/Tour-Website/tour/home.html",
   },
+  {
+    title: "Note Book App",
+    imgSrc: "https://i.ibb.co/Jy8JVz5/s1.png",
+    desc: "I have created a secure notes website with login/signup, allowing users to create, edit, and delete notes. It offers a user-friendly interface for efficient note management.",
+    linkOfGithub: "https://github.com/YogendraRajpoot/notesfrontend",
+    linkOfWebsite: "https://yogendranotes.netlify.app/",
+  },
 ];
